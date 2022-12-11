@@ -1,0 +1,2 @@
+DATABASE_NAME = "Phishing"
+COLLECTION_NAME = "Phishing"
